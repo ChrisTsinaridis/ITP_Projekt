@@ -1,4 +1,4 @@
-path: /Users/christostsinaridis/Desktop/ITP_Projekt/data  # Pfad in dem die Bilder gespeichert sind
+path: ../ITP_Projekt/data  # Pfad in dem die Bilder gespeichert sind
 train: images/train  # Pfad in dem die Trainingsbilder gespeichert sind
 val: images/train  # Pfad in dem die Validierungsbilder gespeichert sind, hier werden für die Validierung die Trainingsbilder genommen, da der Datensatz zu klein ist.
 
